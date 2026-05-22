@@ -5,3 +5,5 @@ In LangChain, a Document Loader is a fundamental component designed to ingest da
 Why are they used?
 
 To build RAG (Retrieval-Augmented Generation) applications, you need to bring in data from various places—like PDFs, text files, websites, or databases. Because these sources are so different, Document Loaders act as the bridge that creates a uniform structure that the rest of the LangChain pipeline can process for tasks like chunking, embedding, and retrieval 
+
+This repository consists of code formats of Langchain Document Loader this repo also consists of various types of document loaders which are useful in different scenarios.
